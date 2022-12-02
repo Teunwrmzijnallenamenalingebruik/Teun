@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @TeunSchrader
+- 👋 Hi, I’m @Teun
 - 👀 I’m interested in Computers
 - 🌱 I'm messing with coding even tho i'm bad at it.
